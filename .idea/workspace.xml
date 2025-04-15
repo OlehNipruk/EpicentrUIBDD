@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b085a2d-5ee1-46b8-850f-878d06b3e8aa" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2vgomz3WCjp8tYLlKZ7DbeKHJvV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/EPAM/LABA/EpicentrUIBDD/src/test/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\EPAM\LABA\EpicentrUIBDD\src\test\java" />
+      <recent name="D:\EPAM\LABA\EpicentrUIBDD\src\main\resources" />
+      <recent name="D:\EPAM\LABA\EpicentrUIBDD\src\test\resources" />
+      <recent name="D:\EPAM\LABA\EpicentrUIBDD\src\main\resources\features" />
+      <recent name="D:\EPAM\LABA\EpicentrUIBDD\src\main\java\driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\EPAM\LABA\EpicentrUIBDD\src\main\resources\features" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="steps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng-positive.xml">
+    <configuration name="Scenario: Add a single product to the cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/cart_page.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="EpicentrUITests" />
+      <option name="NAME_FILTER" value="^Add a single product to the cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Add a single product to the cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Add a single product to the cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng-negative.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EpicentrUITests" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng-negative.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng-positive.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EpicentrUITests" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng-positive.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EpicentrUITests" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.runScenario" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EpicentrUITests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.TestRunner" />
+      <option name="METHOD_NAME" value="runScenario" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng-positive.xml" />
+        <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng-negative.xml" />
+        <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng.xml (1)" />
+        <item itemvalue="TestNG.TestRunner.runScenario" />
+        <item itemvalue="Cucumber Java.Scenario: Add a single product to the cart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b085a2d-5ee1-46b8-850f-878d06b3e8aa" name="Changes" comment="" />
+      <created>1744576242683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744576242683</updated>
+    </task>
+    <servers />
+  </component>
+</project>
