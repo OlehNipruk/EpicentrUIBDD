@@ -9,10 +9,12 @@ public class HomePageSteps extends AbstractStepDef {
     public void theUserIsOnTheHomePage() {
     }
 
-    @Then("the page title should contain {string}")
+    @Then("^the page title should contain \"([^\"]*)\"$")
     public void thePageTitleShouldContain(String expectedTitle) {
         Assert.assertTrue(driver.getTitle().contains(expectedTitle), "Page title mismatch!");
     }
+
+
 
     @When("the user searches for {string}")
     public void theUserSearchesFor(String query) {
