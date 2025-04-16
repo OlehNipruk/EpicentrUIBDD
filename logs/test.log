@@ -1,189 +1,420 @@
-2025-04-15 17:24:31 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:24:31 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:24:33 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:24:36 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:24:36 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (a06948bdcf572657ec8b8246a367c15f)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:24:37 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (a06948bdcf572657ec8b8246a367c15f)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:24:39 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (a06948bdcf572657ec8b8246a367c15f)] -> xpath: //button[text()='Купити']]
-2025-04-15 17:24:42 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (a06948bdcf572657ec8b8246a367c15f)] -> xpath: //h1[@data-product-name='']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:24:42 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:24:42 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:24:42 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:24:43 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:24:47 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 17:24:47 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (bee820a1dd62b61b536aaef920972594)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 17:24:47 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (bee820a1dd62b61b536aaef920972594)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:24:53 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (bee820a1dd62b61b536aaef920972594)] -> xpath: //button[text()='Купити']]
-2025-04-15 17:24:53 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (bee820a1dd62b61b536aaef920972594)] -> xpath: //h1[@data-product-name='']] Text: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 17:24:53 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:24:53 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:24:53 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:24:54 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:24:57 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:24:58 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (5ac6163536d9b43b99eba9114b3dbd1d)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:24:58 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (5ac6163536d9b43b99eba9114b3dbd1d)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:25:03 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (5ac6163536d9b43b99eba9114b3dbd1d)] -> xpath: //button[text()='Купити']]
-2025-04-15 17:25:05 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 17:25:05 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (5ac6163536d9b43b99eba9114b3dbd1d)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 17:25:06 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (5ac6163536d9b43b99eba9114b3dbd1d)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:25:36 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:25:36 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:25:36 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:25:38 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:25:41 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:25:41 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:25:41 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:25:42 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:26:02 [main] INFO  pages.HomePage - Searching for product: Ноутбук
-2025-04-15 17:26:02 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (29c146be441592e9b026327624d94637)] -> class name: _JcImSJ] Keys: Ноутбук
-2025-04-15 17:26:02 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (29c146be441592e9b026327624d94637)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:26:12 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:26:13 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:26:13 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:26:14 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:26:16 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:26:16 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (adf187988f257bca16ac3bf159489b5a)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:26:17 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (adf187988f257bca16ac3bf159489b5a)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:26:21 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (adf187988f257bca16ac3bf159489b5a)] -> xpath: //h1[@class='_aql9TB _7TBdaN _GuJjCI']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:26:21 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:26:21 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:26:21 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:26:22 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:26:25 [main] INFO  pages.HomePage - Searching for product: Неіснуючий продукт
-2025-04-15 17:26:25 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (1b7f43d392665640be1034b1de51b88d)] -> class name: _JcImSJ] Keys: Неіснуючий продукт
-2025-04-15 17:26:25 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (1b7f43d392665640be1034b1de51b88d)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:26:53 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:34:03 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:34:03 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:34:06 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:34:09 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:34:09 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (a8d610d003533fa07290e56c70482cdc)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:34:10 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (a8d610d003533fa07290e56c70482cdc)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:34:15 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (a8d610d003533fa07290e56c70482cdc)] -> xpath: //button[text()='Купити']]
-2025-04-15 17:34:16 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (a8d610d003533fa07290e56c70482cdc)] -> xpath: //h1[@data-product-name='']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:34:16 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:34:16 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:34:16 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:34:18 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:34:20 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 17:34:20 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (dd1eb4262d4f88c98bf07084676135b8)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 17:34:21 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (dd1eb4262d4f88c98bf07084676135b8)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:34:25 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (dd1eb4262d4f88c98bf07084676135b8)] -> xpath: //button[text()='Купити']]
-2025-04-15 17:34:25 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (dd1eb4262d4f88c98bf07084676135b8)] -> xpath: //h1[@data-product-name='']] Text: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 17:34:25 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:34:26 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:34:26 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:34:27 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:34:29 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:34:30 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (4295f28c5c1161e5c8ce271ea5573dad)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:34:30 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (4295f28c5c1161e5c8ce271ea5573dad)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:34:34 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (4295f28c5c1161e5c8ce271ea5573dad)] -> xpath: //button[text()='Купити']]
-2025-04-15 17:34:36 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 17:34:36 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (4295f28c5c1161e5c8ce271ea5573dad)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 17:34:36 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (4295f28c5c1161e5c8ce271ea5573dad)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:34:39 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (4295f28c5c1161e5c8ce271ea5573dad)] -> xpath: //button[text()='Купити']]
-2025-04-15 17:34:40 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:34:41 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:34:41 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:34:42 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:34:45 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:34:45 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:34:45 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:34:46 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:34:49 [main] INFO  pages.HomePage - Searching for product: Ноутбук
-2025-04-15 17:34:49 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (670853642bf55da1c4b20ed450c2f825)] -> class name: _JcImSJ] Keys: Ноутбук
-2025-04-15 17:34:49 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (670853642bf55da1c4b20ed450c2f825)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:34:57 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:34:57 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:34:57 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:34:58 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:35:01 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:35:01 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (3d9fe1589808566f33ca51e70f15ab7d)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:35:01 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (3d9fe1589808566f33ca51e70f15ab7d)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:35:05 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (3d9fe1589808566f33ca51e70f15ab7d)] -> xpath: //h1[@class='_aql9TB _7TBdaN _GuJjCI']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 17:35:05 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:35:19 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:35:19 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:35:20 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:35:23 [main] INFO  pages.HomePage - Searching for product: Неіснуючий продукт
-2025-04-15 17:35:23 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (43608a93a9d825aa02d51e4f780439be)] -> class name: _JcImSJ] Keys: Неіснуючий продукт
-2025-04-15 17:35:24 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (43608a93a9d825aa02d51e4f780439be)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:35:51 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:42:21 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:42:21 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:42:23 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:42:26 [main] INFO  pages.HomePage - Searching for product: Неіснуючий продукт
-2025-04-15 17:42:26 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (d5833f34207f0e893539d8bc2389f2eb)] -> class name: _JcImSJ] Keys: Неіснуючий продукт
-2025-04-15 17:42:26 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (d5833f34207f0e893539d8bc2389f2eb)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:42:50 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:51:43 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:51:43 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:51:45 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:51:48 [main] INFO  pages.HomePage - Searching for product: Неіснуючий продукт
-2025-04-15 17:51:48 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (53ae6e263cfb3b161fd09c2790b85e91)] -> class name: _JcImSJ] Keys: Неіснуючий продукт
-2025-04-15 17:51:48 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (53ae6e263cfb3b161fd09c2790b85e91)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:52:17 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 17:58:34 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 17:58:34 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 17:58:37 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 17:58:39 [main] INFO  pages.HomePage - Searching for product: Неіснуючий продукт
-2025-04-15 17:58:40 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (5fa07a24b4f7dc6c69e2be932d0a17e6)] -> class name: _JcImSJ] Keys: Неіснуючий продукт
-2025-04-15 17:58:40 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (5fa07a24b4f7dc6c69e2be932d0a17e6)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 17:59:07 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 18:02:59 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 18:02:59 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 18:03:02 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 18:03:05 [main] INFO  pages.HomePage - Searching for product: Неіснуючий продукт
-2025-04-15 18:03:05 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (d93f8024a4b17ddd7aa0c2b5470345fb)] -> class name: _JcImSJ] Keys: Неіснуючий продукт
-2025-04-15 18:03:05 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (d93f8024a4b17ddd7aa0c2b5470345fb)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 18:03:32 [main] ERROR listeners.TestListener - Scenario failed: Verify non-existing product shows nothing. Screenshot: target/screenshots/Verify_non-existing_product_shows_nothing_20250415_180332.png
-2025-04-15 18:03:32 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 18:06:53 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 18:06:53 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 18:06:55 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 18:06:57 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 18:06:58 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (19d8e3b1d0e28eb239d3c81d9940d8c8)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 18:06:58 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (19d8e3b1d0e28eb239d3c81d9940d8c8)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 18:07:03 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (19d8e3b1d0e28eb239d3c81d9940d8c8)] -> xpath: //button[text()='Купити']]
-2025-04-15 18:07:03 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (19d8e3b1d0e28eb239d3c81d9940d8c8)] -> xpath: //h1[@data-product-name='']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 18:07:03 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 18:07:04 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 18:07:04 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 18:07:05 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 18:07:08 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 18:07:08 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (fabff416403a5e4ff8bc3bd4a1edc902)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 18:07:08 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (fabff416403a5e4ff8bc3bd4a1edc902)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 18:07:15 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (fabff416403a5e4ff8bc3bd4a1edc902)] -> xpath: //button[text()='Купити']]
-2025-04-15 18:07:15 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (fabff416403a5e4ff8bc3bd4a1edc902)] -> xpath: //h1[@data-product-name='']] Text: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 18:07:15 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 18:07:16 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 18:07:16 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 18:07:17 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 18:07:20 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 18:07:20 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (3b7baf43f136c8aeb40ff1d1e117922b)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 18:07:20 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (3b7baf43f136c8aeb40ff1d1e117922b)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 18:07:24 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (3b7baf43f136c8aeb40ff1d1e117922b)] -> xpath: //button[text()='Купити']]
-2025-04-15 18:07:26 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 18:07:26 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (3b7baf43f136c8aeb40ff1d1e117922b)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
-2025-04-15 18:07:26 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (3b7baf43f136c8aeb40ff1d1e117922b)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 18:07:29 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (3b7baf43f136c8aeb40ff1d1e117922b)] -> xpath: //button[text()='Купити']]
-2025-04-15 18:07:31 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 18:07:31 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 18:07:31 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 18:07:32 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 18:07:35 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 18:07:35 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 18:07:35 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 18:07:36 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 18:07:39 [main] INFO  pages.HomePage - Searching for product: Ноутбук
-2025-04-15 18:07:39 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (f15d5a757bad2444bfaba97d8100b766)] -> class name: _JcImSJ] Keys: Ноутбук
-2025-04-15 18:07:39 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (f15d5a757bad2444bfaba97d8100b766)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 18:07:48 [main] INFO  driver.SingletonDriver - Closing WebDriver
-2025-04-15 18:07:48 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
-2025-04-15 18:07:48 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
-2025-04-15 18:07:49 [main] INFO  driver.SingletonDriver - Browser window maximized
-2025-04-15 18:07:52 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 18:07:52 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (ac21d0a959fd61a8821ddf23949a496b)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 18:07:53 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (ac21d0a959fd61a8821ddf23949a496b)] -> xpath: //button[@aria-label='Пошук']]
-2025-04-15 18:07:57 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (ac21d0a959fd61a8821ddf23949a496b)] -> xpath: //h1[@class='_aql9TB _7TBdaN _GuJjCI']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
-2025-04-15 18:07:57 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 01:59:33 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 01:59:33 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 01:59:42 [main] ERROR listeners.TestListener - Scenario failed: Add a single product to the cart. Screenshot: target/screenshots/Add_a_single_product_to_the_cart_20250417_015942.png
+2025-04-17 01:59:43 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 01:59:43 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 01:59:43 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 01:59:44 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 01:59:49 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 01:59:49 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (2a3a2047067669e7b5ab228df90a9a65)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 01:59:49 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (2a3a2047067669e7b5ab228df90a9a65)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 01:59:52 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (2a3a2047067669e7b5ab228df90a9a65)] -> xpath: //button[text()='Купити']]
+2025-04-17 01:59:52 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (2a3a2047067669e7b5ab228df90a9a65)] -> xpath: //h1[@data-product-name='']] Text: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 01:59:52 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 01:59:53 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 01:59:53 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 01:59:54 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 01:59:55 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 01:59:55 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 01:59:55 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 01:59:56 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:00:00 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:00:00 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:00:00 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:00:01 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:00:05 [main] INFO  pages.HomePage - Searching for product: Ноутбук
+2025-04-17 02:00:05 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (083d00171671668c4204ffa76140f826)] -> class name: _JcImSJ] Keys: Ноутбук
+2025-04-17 02:00:05 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (083d00171671668c4204ffa76140f826)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:00:12 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:00:12 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:00:12 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:00:13 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:00:19 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:01:43 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:01:43 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:01:46 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:01:50 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:01:50 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (852f446ac37fc0e08ac19e54fa837284)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:01:51 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (852f446ac37fc0e08ac19e54fa837284)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:01:56 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (852f446ac37fc0e08ac19e54fa837284)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:01:57 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (852f446ac37fc0e08ac19e54fa837284)] -> xpath: //h1[@data-product-name='']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:01:57 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:01:57 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:01:57 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:01:59 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:02:03 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:02:04 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (45f73e22837f2fb187354d5c4ecdbec8)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:02:04 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (45f73e22837f2fb187354d5c4ecdbec8)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:02:10 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (45f73e22837f2fb187354d5c4ecdbec8)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:02:12 [main] ERROR listeners.TestListener - Scenario failed: Add a single product to the cart. Screenshot: target/screenshots/Add_a_single_product_to_the_cart_20250417_020212.png
+2025-04-17 02:02:12 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:02:13 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:02:13 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:02:14 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:02:18 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:02:18 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (4a2f783d7b922f4494cf5364e41baaf2)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:02:18 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (4a2f783d7b922f4494cf5364e41baaf2)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:02:21 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (4a2f783d7b922f4494cf5364e41baaf2)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:02:23 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:02:23 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (4a2f783d7b922f4494cf5364e41baaf2)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:02:24 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (4a2f783d7b922f4494cf5364e41baaf2)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:02:25 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (4a2f783d7b922f4494cf5364e41baaf2)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:02:29 [main] ERROR listeners.TestListener - Scenario failed: Add two different products to the cart. Screenshot: target/screenshots/Add_two_different_products_to_the_cart_20250417_020229.png
+2025-04-17 02:02:29 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:02:30 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:02:30 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:02:31 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:02:35 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:02:35 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:02:35 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:02:36 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:02:40 [main] INFO  pages.HomePage - Searching for product: Ноутбук
+2025-04-17 02:02:40 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (37a05233c187e7c5c08c657da9131fa2)] -> class name: _JcImSJ] Keys: Ноутбук
+2025-04-17 02:02:41 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (37a05233c187e7c5c08c657da9131fa2)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:02:46 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:02:46 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:02:46 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:02:47 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:02:51 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:02:52 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (fbcddc125a03c98185ec5096794875d2)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:02:52 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (fbcddc125a03c98185ec5096794875d2)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:02:57 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:04:04 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:04:04 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:04:07 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:04:11 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:04:11 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (82f85de266682a349b0fc5f518c9cbb4)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:04:11 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (82f85de266682a349b0fc5f518c9cbb4)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:04:13 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (82f85de266682a349b0fc5f518c9cbb4)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:04:16 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (82f85de266682a349b0fc5f518c9cbb4)] -> xpath: //h1[@data-product-name='']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:04:16 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:04:16 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:04:16 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:04:17 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:04:21 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:04:21 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (ba6f646c1ab6b8a3f7b968638e553fe1)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:04:22 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (ba6f646c1ab6b8a3f7b968638e553fe1)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:04:26 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (ba6f646c1ab6b8a3f7b968638e553fe1)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:04:27 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (ba6f646c1ab6b8a3f7b968638e553fe1)] -> xpath: //h1[@data-product-name='']] Text: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:04:27 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:04:27 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:04:27 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:04:29 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:04:33 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:04:33 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (e3aa3143cf4fe6328adc446fa72c3630)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:04:33 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (e3aa3143cf4fe6328adc446fa72c3630)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:04:39 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (e3aa3143cf4fe6328adc446fa72c3630)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:04:42 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:04:42 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (e3aa3143cf4fe6328adc446fa72c3630)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:04:42 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (e3aa3143cf4fe6328adc446fa72c3630)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:04:46 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (e3aa3143cf4fe6328adc446fa72c3630)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:04:48 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:04:48 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:04:48 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:04:50 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:04:55 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:04:55 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:04:55 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:04:56 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:05:00 [main] INFO  pages.HomePage - Searching for product: Ноутбук
+2025-04-17 02:05:01 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (4d59803d1bf82b5fcc6e42dee279fa72)] -> class name: _JcImSJ] Keys: Ноутбук
+2025-04-17 02:05:01 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (4d59803d1bf82b5fcc6e42dee279fa72)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:05:05 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:05:05 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:05:05 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:05:06 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:05:11 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:05:11 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (6e66db4bd8f85c9210efec00611e6360)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:05:12 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (6e66db4bd8f85c9210efec00611e6360)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:05:16 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:06:36 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:06:36 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:06:38 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:06:46 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:06:46 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (4f16f117be7667e27cf75316b7aa2d98)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:06:47 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (4f16f117be7667e27cf75316b7aa2d98)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:06:50 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (4f16f117be7667e27cf75316b7aa2d98)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:06:53 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (4f16f117be7667e27cf75316b7aa2d98)] -> xpath: //h1[@data-product-name='']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:06:53 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:06:54 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:06:54 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:06:55 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:07:01 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:07:01 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (5ff8b5b97e783a4a279eaf28475dde9e)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:07:01 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (5ff8b5b97e783a4a279eaf28475dde9e)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:07:04 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (5ff8b5b97e783a4a279eaf28475dde9e)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:07:08 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (5ff8b5b97e783a4a279eaf28475dde9e)] -> xpath: //h1[@data-product-name='']] Text: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:07:08 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:07:08 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:07:08 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:07:10 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:07:15 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:07:15 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (8cbd446c7da0c0f38fe13080fecffa85)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:07:15 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (8cbd446c7da0c0f38fe13080fecffa85)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:07:18 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (8cbd446c7da0c0f38fe13080fecffa85)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:07:21 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:07:21 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (8cbd446c7da0c0f38fe13080fecffa85)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:07:21 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (8cbd446c7da0c0f38fe13080fecffa85)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:07:27 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (8cbd446c7da0c0f38fe13080fecffa85)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:07:29 [main] ERROR listeners.TestListener - Scenario failed: Add two different products to the cart. Screenshot: target/screenshots/Add_two_different_products_to_the_cart_20250417_020729.png
+2025-04-17 02:07:29 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:07:29 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:07:29 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:07:31 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:07:37 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:07:37 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:07:37 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:07:39 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:07:44 [main] INFO  pages.HomePage - Searching for product: Ноутбук
+2025-04-17 02:07:44 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (6828900be44c42ac5dce75435af3f431)] -> class name: _JcImSJ] Keys: Ноутбук
+2025-04-17 02:07:44 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (6828900be44c42ac5dce75435af3f431)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:07:49 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:07:49 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:07:49 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:07:50 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:07:56 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:07:56 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (cf9f760687e13a926d15255adcba12dc)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:07:57 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (cf9f760687e13a926d15255adcba12dc)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:07:59 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (cf9f760687e13a926d15255adcba12dc)] -> xpath: //h1[@class='_aql9TB _7TBdaN _GuJjCI']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:07:59 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:13:23 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:13:23 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:13:26 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:13:30 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:13:30 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (8cdd8639668ace14f1661387414047fd)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:13:31 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (8cdd8639668ace14f1661387414047fd)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:13:34 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (8cdd8639668ace14f1661387414047fd)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:13:35 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (8cdd8639668ace14f1661387414047fd)] -> xpath: //h1[@data-product-name='']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:13:35 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:13:35 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:13:35 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:13:37 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:13:41 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:13:41 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (d2e7819e141d1985123ecfdccd86897a)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:13:41 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (d2e7819e141d1985123ecfdccd86897a)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:13:46 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (d2e7819e141d1985123ecfdccd86897a)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:13:48 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (d2e7819e141d1985123ecfdccd86897a)] -> xpath: //h1[@data-product-name='']] Text: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:13:48 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:13:48 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:13:48 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:13:49 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:13:54 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:13:54 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (42fdd5dde72c337584f36c4711f454b7)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:13:54 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (42fdd5dde72c337584f36c4711f454b7)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:13:56 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (42fdd5dde72c337584f36c4711f454b7)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:13:59 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:13:59 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (42fdd5dde72c337584f36c4711f454b7)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:13:59 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (42fdd5dde72c337584f36c4711f454b7)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:14:01 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (42fdd5dde72c337584f36c4711f454b7)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:14:05 [main] ERROR listeners.TestListener - Scenario failed: Add two different products to the cart. Screenshot: target/screenshots/Add_two_different_products_to_the_cart_20250417_021405.png
+2025-04-17 02:14:05 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:14:06 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:14:06 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:14:07 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:14:11 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:14:11 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:14:11 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:14:12 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:14:16 [main] INFO  pages.HomePage - Searching for product: Ноутбук
+2025-04-17 02:14:16 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (f4a8555760d0a9e1931c55b3e4659a6e)] -> class name: _JcImSJ] Keys: Ноутбук
+2025-04-17 02:14:16 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (f4a8555760d0a9e1931c55b3e4659a6e)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:14:22 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:14:22 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:14:22 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:14:24 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:14:27 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:14:27 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (8c4f36fc34b57ac36cb19b91f93e6747)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:14:28 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (8c4f36fc34b57ac36cb19b91f93e6747)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:14:32 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (8c4f36fc34b57ac36cb19b91f93e6747)] -> xpath: //h1[@class='_aql9TB _7TBdaN _GuJjCI']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:14:32 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:17:26 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:17:26 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:17:29 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:17:34 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:17:34 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (b180aaa5cb872e17c0f91e0a7010aad0)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:17:35 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (b180aaa5cb872e17c0f91e0a7010aad0)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:17:40 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (b180aaa5cb872e17c0f91e0a7010aad0)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:17:40 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (b180aaa5cb872e17c0f91e0a7010aad0)] -> xpath: //h1[@data-product-name='']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:17:40 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:17:41 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:17:41 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:17:42 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:17:45 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:17:45 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (1db53567eac4d4b46cfb58ed5cb65a0c)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:17:46 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (1db53567eac4d4b46cfb58ed5cb65a0c)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:17:50 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (1db53567eac4d4b46cfb58ed5cb65a0c)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:17:51 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (1db53567eac4d4b46cfb58ed5cb65a0c)] -> xpath: //h1[@data-product-name='']] Text: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:17:51 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:17:51 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:17:51 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:17:52 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:17:56 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:17:56 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (1a890a2e9751051f11769d9874a809fa)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:17:57 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (1a890a2e9751051f11769d9874a809fa)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:18:01 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (1a890a2e9751051f11769d9874a809fa)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:18:04 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:18:04 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (1a890a2e9751051f11769d9874a809fa)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:18:04 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (1a890a2e9751051f11769d9874a809fa)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:18:07 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (1a890a2e9751051f11769d9874a809fa)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:18:11 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:18:11 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:18:11 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:18:12 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:18:16 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:18:16 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:18:16 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:18:17 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:18:21 [main] INFO  pages.HomePage - Searching for product: Ноутбук
+2025-04-17 02:18:22 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (804812f13d90bcf6cc2c8ac5b7f53feb)] -> class name: _JcImSJ] Keys: Ноутбук
+2025-04-17 02:18:22 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (804812f13d90bcf6cc2c8ac5b7f53feb)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:18:26 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:18:26 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:18:26 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:18:27 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:18:32 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:18:32 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (e8dfdd2d82eaf0023b0d28501a4dbfb5)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:18:32 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (e8dfdd2d82eaf0023b0d28501a4dbfb5)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:18:37 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:24:02 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:24:02 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:24:04 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:24:08 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:24:09 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (84820cccb4e31ef3bde39d9a3275d448)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:24:09 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (84820cccb4e31ef3bde39d9a3275d448)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:24:11 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (84820cccb4e31ef3bde39d9a3275d448)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:24:14 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (84820cccb4e31ef3bde39d9a3275d448)] -> xpath: //h1[@data-product-name='']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:24:14 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:24:14 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:24:14 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:24:16 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:24:20 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:24:21 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (3bc0c9a36faee716475fe2c0c48fa57a)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:24:21 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (3bc0c9a36faee716475fe2c0c48fa57a)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:24:25 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (3bc0c9a36faee716475fe2c0c48fa57a)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:24:27 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (3bc0c9a36faee716475fe2c0c48fa57a)] -> xpath: //h1[@data-product-name='']] Text: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:24:27 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:24:27 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:24:27 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:24:28 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:24:32 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:24:32 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (f9c9ba59815b82e1930ebb95cd2c765e)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:24:33 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (f9c9ba59815b82e1930ebb95cd2c765e)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:24:38 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (f9c9ba59815b82e1930ebb95cd2c765e)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:24:41 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:24:41 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (f9c9ba59815b82e1930ebb95cd2c765e)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:24:41 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (f9c9ba59815b82e1930ebb95cd2c765e)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:24:45 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (f9c9ba59815b82e1930ebb95cd2c765e)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:24:46 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:24:46 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:24:46 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:24:48 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:24:52 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:24:53 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:24:53 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:24:54 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:24:58 [main] INFO  pages.HomePage - Searching for product: Ноутбук
+2025-04-17 02:24:58 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (b63b803ca1e67b4322517e2cceb2be14)] -> class name: _JcImSJ] Keys: Ноутбук
+2025-04-17 02:24:58 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (b63b803ca1e67b4322517e2cceb2be14)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:25:01 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:25:02 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:25:02 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:25:03 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:25:07 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:27:10 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:27:10 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:27:12 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:27:16 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:27:16 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (6d4c0a2dd9c29ac7f2234281ccbaf067)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:27:16 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (6d4c0a2dd9c29ac7f2234281ccbaf067)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:27:22 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (6d4c0a2dd9c29ac7f2234281ccbaf067)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:27:23 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (6d4c0a2dd9c29ac7f2234281ccbaf067)] -> xpath: //h1[@data-product-name='']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:27:23 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:27:23 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:27:23 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:27:24 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:27:28 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:27:28 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (0a8a04c79302801628dbd192000c60e6)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:27:28 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (0a8a04c79302801628dbd192000c60e6)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:27:33 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (0a8a04c79302801628dbd192000c60e6)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:27:34 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (0a8a04c79302801628dbd192000c60e6)] -> xpath: //h1[@data-product-name='']] Text: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:27:34 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:27:35 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:27:35 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:27:36 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:27:40 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:27:40 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (91c3a760344ad57d5f98ae2b1d71d12a)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:27:40 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (91c3a760344ad57d5f98ae2b1d71d12a)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:27:45 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (91c3a760344ad57d5f98ae2b1d71d12a)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:27:48 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:27:48 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (91c3a760344ad57d5f98ae2b1d71d12a)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:27:48 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (91c3a760344ad57d5f98ae2b1d71d12a)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:27:55 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (91c3a760344ad57d5f98ae2b1d71d12a)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:27:56 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:27:57 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:27:57 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:27:58 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:28:02 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:28:02 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:28:02 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:28:03 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:28:07 [main] INFO  pages.HomePage - Searching for product: Ноутбук
+2025-04-17 02:28:07 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (f821edb7cab77a2ab23e33842267d19a)] -> class name: _JcImSJ] Keys: Ноутбук
+2025-04-17 02:28:07 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (f821edb7cab77a2ab23e33842267d19a)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:28:12 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:28:12 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:28:12 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:28:13 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:28:17 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:28:17 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (38abc25e09a73e73a30bd6c25ebceaef)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:28:18 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (38abc25e09a73e73a30bd6c25ebceaef)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:28:23 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (38abc25e09a73e73a30bd6c25ebceaef)] -> xpath: //h1[@class='_aql9TB _7TBdaN _GuJjCI']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:28:23 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:35:35 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:35:35 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:35:40 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:35:44 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:35:44 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (209619f48ae0963b9e9ea2a1ab8b32a6)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:35:45 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (209619f48ae0963b9e9ea2a1ab8b32a6)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:35:48 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (209619f48ae0963b9e9ea2a1ab8b32a6)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:35:51 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (209619f48ae0963b9e9ea2a1ab8b32a6)] -> xpath: //h1[@data-product-name='']] Text: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:35:51 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:35:51 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:35:51 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:35:53 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:35:57 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:35:57 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (cbdc19b25021006240b80ec79f3a9976)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:35:57 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (cbdc19b25021006240b80ec79f3a9976)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:36:00 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (cbdc19b25021006240b80ec79f3a9976)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:36:02 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (cbdc19b25021006240b80ec79f3a9976)] -> xpath: //h1[@data-product-name='']] Text: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:36:02 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:36:02 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:36:02 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:36:04 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:36:08 [main] INFO  pages.HomePage - Searching for product: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:36:08 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (27fc40ce20739e2b939764127777fe78)] -> class name: _JcImSJ] Keys: Ноутбук Lenovo ideapad Slim 5 16ABR8 16" (82XG009HRA) cloud grey
+2025-04-17 02:36:08 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (27fc40ce20739e2b939764127777fe78)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:36:13 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (27fc40ce20739e2b939764127777fe78)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:36:16 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:36:16 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (27fc40ce20739e2b939764127777fe78)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:36:17 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (27fc40ce20739e2b939764127777fe78)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:36:19 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (27fc40ce20739e2b939764127777fe78)] -> xpath: //button[text()='Купити']]
+2025-04-17 02:36:22 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:36:22 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:36:22 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:36:23 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:36:28 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:36:28 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:36:28 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:36:29 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:36:33 [main] INFO  pages.HomePage - Searching for product: Ноутбук
+2025-04-17 02:36:33 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (ac6013594aaf43273d30b7a4530232f1)] -> class name: _JcImSJ] Keys: Ноутбук
+2025-04-17 02:36:33 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (ac6013594aaf43273d30b7a4530232f1)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:36:41 [main] INFO  driver.SingletonDriver - Closing WebDriver
+2025-04-17 02:36:41 [main] INFO  driver.SingletonDriver - Initializing WebDriver instance
+2025-04-17 02:36:41 [main] INFO  driver.SingletonDriver - Creating WebDriver for browser: chrome
+2025-04-17 02:36:42 [main] INFO  driver.SingletonDriver - Browser window maximized
+2025-04-17 02:36:45 [main] INFO  pages.HomePage - Searching for product: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:36:46 [main] INFO  driver.LoggingWebElementDecorator - Sending keys to element: [[ChromeDriver: chrome on windows (b6ee52d5dd0d6f9bd58d9eaf889490f9)] -> class name: _JcImSJ] Keys: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:36:46 [main] INFO  driver.LoggingWebElementDecorator - Clicking on element: [[ChromeDriver: chrome on windows (b6ee52d5dd0d6f9bd58d9eaf889490f9)] -> xpath: //button[@aria-label='Пошук']]
+2025-04-17 02:36:51 [main] INFO  driver.LoggingWebElementDecorator - Getting text from element: [[ChromeDriver: chrome on windows (b6ee52d5dd0d6f9bd58d9eaf889490f9)] -> xpath: //h1[@class='_aql9TB _7TBdaN _GuJjCI']] Text: Мишка Logitech Wireless Mouse M185 black/red (910-002240)
+2025-04-17 02:36:51 [main] INFO  driver.SingletonDriver - Closing WebDriver

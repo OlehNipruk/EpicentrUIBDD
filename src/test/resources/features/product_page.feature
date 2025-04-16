@@ -10,7 +10,7 @@ Feature: Product search and validation
 
     Examples:
       | productName                                                       |
-      | Ноутбук Lenovo ideapad Slim 5 16ABR8 16\" (82XG009HRA) cloud grey |
+      | Мишка Logitech Wireless Mouse M185 black/red (910-002240) |
 
   @negative
   Scenario: Verify non-existing product shows nothing
