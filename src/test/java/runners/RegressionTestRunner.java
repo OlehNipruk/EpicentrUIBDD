@@ -6,9 +6,9 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(
         features = "src/test/resources/features",
         glue = {"steps", "listeners"},
-        tags = "@positive",
+        tags = "@regression",
         plugin = {"pretty", "summary"}
 )
-public class PositiveTestRunner extends AbstractTestNGCucumberTests {
+public class RegressionTestRunner extends AbstractTestNGCucumberTests {
 }
 

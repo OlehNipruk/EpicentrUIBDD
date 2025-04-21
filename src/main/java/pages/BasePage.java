@@ -26,14 +26,4 @@ public abstract class BasePage {
         element.click();
     }
 
-    protected void sendKeys(By locator, String text) {
-        WebElement element = findElement(locator);
-        element.clear();
-        element.sendKeys(text);
-    }
-
-    public String getText(By locator) {
-        WebElement element = driver.findElement(locator);
-        return element.getText();
-    }
 }

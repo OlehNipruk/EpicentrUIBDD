@@ -2,19 +2,19 @@ package steps;
 
 import io.cucumber.java.en.*;
 import org.testng.Assert;
+import utils.ConfigReader;
 
 public class HomePageSteps extends AbstractStepDef {
 
     @Given("the user is on the home page")
     public void theUserIsOnTheHomePage() {
+    driver.get(ConfigReader.getProperty("baseUrl"));
     }
 
     @Then("^the page title should contain \"([^\"]*)\"$")
     public void thePageTitleShouldContain(String expectedTitle) {
         Assert.assertTrue(driver.getTitle().contains(expectedTitle), "Page title mismatch!");
     }
-
-
 
     @When("the user searches for {string}")
     public void theUserSearchesFor(String query) {

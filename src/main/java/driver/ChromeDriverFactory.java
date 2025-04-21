@@ -11,8 +11,3 @@ public class ChromeDriverFactory implements DriverFactoryInterface {
         return new ChromeDriver();
     }
 }
-
-
-
-
-
