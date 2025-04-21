@@ -3,7 +3,7 @@ Feature: Shopping Cart Functionality
   Background:
     Given I am on the home page
 
-  @positive
+  @regression
   Scenario Outline: Add a single product to the cart
     When I search for "<productName>"
     And I add the product to the cart
@@ -14,7 +14,7 @@ Feature: Shopping Cart Functionality
       | Ноутбук Lenovo ideapad Slim 5 16ABR8 16\" (82XG009HRA) cloud grey |
       | Мишка Logitech Wireless Mouse M185 black/red (910-002240)         |
 
-  @positive
+  @regression
   Scenario: Add two different products to the cart
     When I search for "Ноутбук Lenovo ideapad Slim 5 16ABR8 16\" (82XG009HRA) cloud grey"
     And I add the product to the cart

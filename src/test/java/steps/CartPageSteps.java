@@ -2,11 +2,13 @@ package steps;
 
 import io.cucumber.java.en.*;
 import org.testng.Assert;
+import utils.ConfigReader;
 
 public class CartPageSteps extends AbstractStepDef {
 
     @Given("I am on the home page")
     public void i_am_on_the_home_page() {
+    driver.get(ConfigReader.getProperty("baseUrl"));
     }
 
     @When("I search for {string}")

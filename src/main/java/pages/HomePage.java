@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import utils.LogUtil;
+
 public class HomePage extends BasePage {
     private By searchInput = By.className("_JcImSJ");
     private By searchButton = By.xpath("//button[@aria-label='Пошук']");
@@ -12,6 +13,7 @@ public class HomePage extends BasePage {
     public HomePage(WebDriver driver) {
         super(driver);
     }
+
     private static final Logger logger = LogUtil.getLogger(HomePage.class);
 
     public void searchForProduct(String productName) {

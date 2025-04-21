@@ -6,8 +6,8 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(
         features = "src/test/resources/features",
         glue = {"steps", "listeners"},
-        tags = "@negative",
+        tags = "@smoke",
         plugin = {"pretty", "summary"}
 )
-public class NegativeTestRunner extends AbstractTestNGCucumberTests {
+public class SmokeTestRunner extends AbstractTestNGCucumberTests {
 }

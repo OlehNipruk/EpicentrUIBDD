@@ -13,11 +13,11 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class ScreenshotUtil {
-    private static final Logger logger = LogManager.getLogger(ScreenshotUtil.class);
     public static byte[] takeScreenshotAsBytes(WebDriver driver) {
         TakesScreenshot screenshot = (TakesScreenshot) driver;
         return screenshot.getScreenshotAs(OutputType.BYTES);
     }
+
     public static String takeScreenshot(WebDriver driver, String testName) {
         File srcFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
         String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
