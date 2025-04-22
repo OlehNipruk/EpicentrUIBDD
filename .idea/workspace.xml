@@ -4,39 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b085a2d-5ee1-46b8-850f-878d06b3e8aa" name="Changes" comment="Module 14. BDD TA Frameworks">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/regression.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/smoke.xml" afterDir="false" />
+    <list default="true" id="3b085a2d-5ee1-46b8-850f-878d06b3e8aa" name="Changes" comment="finish task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/test.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/driver/ChromeDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/driver/ChromeDriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/ConfigReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/ScreenshotUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/ScreenshotUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testng-negative.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testng-positive.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/listeners/TestListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/listeners/TestListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runners/NegativeTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/SmokeTestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runners/PositiveTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/RegressionTestRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/steps/CartPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/CartPageSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/HomePageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/HomePageSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/ProductPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/ProductPageSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/cart_page.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/cart_page.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/home_page.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/home_page.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/product_page.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/product_page.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testng-negative.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testng-positive.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/ConfigReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/ConfigReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/cart_page.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/cart_page.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/home_page.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/home_page.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/product_page.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/product_page.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/NegativeTestRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/PositiveTestRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/HomePageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/HomePageSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/ProductPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/ProductPageSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/ScreenshotUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/ScreenshotUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/CartPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/CartPageSteps.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +28,10 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="finish_task" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -75,16 +49,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/EPAM/LABA/EpicentrUITests",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/EPAM/LABA/EpicentrUIBDD&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\EPAM\LABA\EpicentrUIBDD\src\test\java" />
@@ -94,27 +68,16 @@
       <recent name="D:\EPAM\LABA\EpicentrUIBDD\src\main\java\driver" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\EPAM\LABA\EpicentrUIBDD\src\test\resources" />
       <recent name="D:\EPAM\LABA\EpicentrUIBDD\src\main\resources\features" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="steps" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/test/resources/smoke.xml">
-    <configuration name="D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/test/resources/regression.xml">
+    <configuration name="D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng-negative.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EpicentrUITests" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/regression.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/smoke.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="EpicentrUITests" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/smoke.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng-negative.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -132,6 +95,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EpicentrUITests" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="D:/EPAM/LABA/EpicentrUIBDD/src/test/resources/regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EpicentrUITests" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/regression.xml" />
@@ -142,10 +115,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/EPAM/LABA/EpicentrUIBDD/src/test/resources/smoke.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRunner.runScenario" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EpicentrUITests" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/smoke.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.TestRunner" />
+      <option name="METHOD_NAME" value="runScenario" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -154,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/test/resources/smoke.xml" />
         <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/test/resources/regression.xml" />
-        <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/smoke.xml" />
-        <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/regression.xml" />
         <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng-positive.xml" />
+        <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng-negative.xml" />
+        <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng.xml (1)" />
+        <item itemvalue="TestNG.TestRunner.runScenario" />
       </list>
     </recent_temporary>
   </component>

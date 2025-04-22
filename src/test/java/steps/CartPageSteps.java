@@ -8,7 +8,7 @@ public class CartPageSteps extends AbstractStepDef {
 
     @Given("I am on the home page")
     public void i_am_on_the_home_page() {
-    driver.get(ConfigReader.getProperty("baseUrl"));
+        driver.get(ConfigReader.getProperty("baseUrl"));
     }
 
     @When("I search for {string}")
@@ -19,6 +19,11 @@ public class CartPageSteps extends AbstractStepDef {
     @And("I add the product to the cart")
     public void i_add_product_to_cart() {
         productPage.addProductToCart();
+        try {
+            Thread.sleep(6000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
     }
 
     @And("I go back to the home page")
