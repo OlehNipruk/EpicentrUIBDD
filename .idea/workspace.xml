@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b085a2d-5ee1-46b8-850f-878d06b3e8aa" name="Changes" comment="finish task">
+    <list default="true" id="3b085a2d-5ee1-46b8-850f-878d06b3e8aa" name="Changes" comment="fix test">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/steps/CartPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/CartPageSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/BasePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/ScreenshotUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/ScreenshotUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/CartPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/CartPageSteps.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,32 +73,62 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/test/resources/regression.xml">
-    <configuration name="D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng-negative.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Add a single product to the cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/cart_page.feature" />
+      <option name="GLUE" value="listeners steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="EpicentrUITests" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng-negative.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
+      <option name="NAME_FILTER" value="^Add a single product to the cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Add a single product to the cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Add a single product to the cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng-positive.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Add two different products to the cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/cart_page.feature" />
+      <option name="GLUE" value="listeners steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="EpicentrUITests" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng-positive.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
+      <option name="NAME_FILTER" value="^Add two different products to the cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Add two different products to the cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Add two different products to the cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Verify product name after searching" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/product_page.feature" />
+      <option name="GLUE" value="listeners steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="EpicentrUITests" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
+      <option name="NAME_FILTER" value="^Verify product name after searching$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify product name after searching$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify product name after searching" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,19 +143,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRunner.runScenario" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="D:/EPAM/LABA/EpicentrUIBDD/src/test/resources/smoke.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EpicentrUITests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="runners.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
-      <option name="PACKAGE_NAME" value="runners" />
-      <option name="MAIN_CLASS_NAME" value="runners.TestRunner" />
-      <option name="METHOD_NAME" value="runScenario" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/smoke.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -137,10 +156,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/test/resources/regression.xml" />
-        <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng-positive.xml" />
-        <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng-negative.xml" />
-        <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/main/resources/testng.xml (1)" />
-        <item itemvalue="TestNG.TestRunner.runScenario" />
+        <item itemvalue="Cucumber Java.Scenario: Add a single product to the cart" />
+        <item itemvalue="Cucumber Java.Scenario: Verify product name after searching" />
+        <item itemvalue="Cucumber Java.Scenario: Add two different products to the cart" />
+        <item itemvalue="TestNG.D:/EPAM/LABA/EpicentrUIBDD/src/test/resources/smoke.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -167,11 +186,19 @@
       <option name="project" value="LOCAL" />
       <updated>1744729935133</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix test">
+      <created>1745311138092</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745311138092</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Module 14. BDD TA Frameworks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 14. BDD TA Frameworks" />
+    <MESSAGE value="fix test" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix test" />
   </component>
 </project>

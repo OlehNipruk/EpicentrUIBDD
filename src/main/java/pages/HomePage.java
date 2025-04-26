@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import utils.LogUtil;
 
 public class HomePage extends BasePage {
-    private By searchInput = By.className("_JcImSJ");
+    private By searchInput = By.cssSelector("input[placeholder='Пошук']");
     private By searchButton = By.xpath("//button[@aria-label='Пошук']");
 
     public HomePage(WebDriver driver) {
@@ -20,7 +20,20 @@ public class HomePage extends BasePage {
         logger.info("Searching for product: {}", productName);
         LoggingWebElementDecorator searchInputElement = new LoggingWebElementDecorator(driver.findElement(searchInput));
         LoggingWebElementDecorator searchButtonElement = new LoggingWebElementDecorator(driver.findElement(searchButton));
+        searchInputElement.sendKeys("  ");
+        try {
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        searchInputElement.clear();
         searchInputElement.sendKeys(productName);
+
         searchButtonElement.click();
+        try {
+            Thread.sleep(8000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
     }
 }
